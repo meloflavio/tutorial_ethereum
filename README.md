@@ -10,7 +10,7 @@ Com o docker instalado, para iniciar uma nova cadeia de blocos crie um arquivo c
   <pre>
   {
   "config":{
-      "chainId": 13
+      "chainId": 28
   },
   "coinbase"   : "0x0000000000000000000000000000000000000000",
   "difficulty" : "0x200",
