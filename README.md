@@ -103,7 +103,6 @@ Caso queira poderá acessar a cadeia de sua propria máquina, para isso, certifi
 Para ativar o repositório PPA, execute:
 <pre>
 sudo add-apt-repository -y ppa:ethereum/ethereum
-.
 </pre>
 
 Depois disso, você pode instalar a versão estável do Go Ethereum:
